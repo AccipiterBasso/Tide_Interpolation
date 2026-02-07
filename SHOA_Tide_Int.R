@@ -102,7 +102,6 @@ diff_b = function(data_int, data) {
   return(data_int)
 }
 
-
 # --- Step 5: Calculate tidal correction using SHOA formula ---
 corr = function(data) {
   data$cor = NA
@@ -181,12 +180,11 @@ formula_text <- expression(delta == frac(c, 2) * '[' * 1 - cos(180 * frac(b, a))
 text(x = min(output$Datetime + 3600), y = max(output$Diff_tide -0.2, na.rm=TRUE), 
      labels = formula_text, pos = 4, cex = 0.8, col = 'black')
 
-
 # ---  Example: Using one month of tide data ---
 #. NOTE: This function is designed to interpolate tide data by month
 #. Using multiple months together may give incorrect estimates at month boundaries due to missing values
 #. The data correspond to the tide tables for the port of Ancud in January 2018, obtained from SHOA
-dt = read.csv('Ancud_Jan_Tides.csv', sep = ';', header = TRUE)
+dt = read.csv('Ancud_Jan_Tides.csv', sep = ',', header = TRUE)
 
 #. Run complete pipeline 
 out = com_pip(dt)
