@@ -10,8 +10,8 @@ Example data and R code for tidal interpolation, developed as part of the manusc
 
 This repository contains two main components:
 
-- **R code** — Scripts to run the tidal interpolation function, which estimates tide heights at 1-minute intervals. The function implements the formula provided by the Servicio Hidrográfico y Oceanográfico de la Armada (SHOA) for tide prediction and interpolation.
-- **data** — Tide tables for the port of Ancud in January 2018, obtained from SHOA.
+- **R code** — Script to run the tidal interpolation function, which estimates tide heights at 1-minute intervals. The function implements the formula provided by the Servicio Hidrográfico y Oceanográfico de la Armada de Chile (SHOA) for tide prediction and interpolation.
+- **Data** — Tide tables for the port of Ancud in January 2018, obtained from SHOA.
 
 ## Project status
 
