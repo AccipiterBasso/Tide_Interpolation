@@ -28,7 +28,7 @@ Basso, E. (2026). Tide Interpolation Function. Zenodo. [![DOI](https://zenodo.or
 
 - Alternatively, the manuscript can be cited: 
 
-Basso et al. (2026). Spatial networks reveal a highly centralized functional connectivity in non-breeding areas for a long-distance migratory shorebird. In review.
+Basso et al. (2026). *"Spatial networks reveal a highly centralized functional connectivity in non-breeding areas for a long-distance migratory shorebird"*. In review.
 
 ## License
 
