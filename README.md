@@ -20,3 +20,10 @@ Finalized.
 ## Organization
 
 Developed as part of my PhD in the Bird Ecology Lab (BEL).
+
+## License
+
+This repository is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).  
+
+© 2026 AccipiterBasso  
+Full license: [https://creativecommons.org/licenses/by-nc/4.0/legalcode](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
