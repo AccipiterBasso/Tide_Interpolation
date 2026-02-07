@@ -21,6 +21,12 @@ Finalized.
 
 Developed as part of my PhD in the Bird Ecology Lab (BEL).
 
+**Cite this code**  
+If you use this code, please cite it as:  
+
+Basso, E. (2026). Tide Interpolation Function. Zenodo. DOI: 10.5281/zenodo.18519932
+
+
 ## License
 
 This repository is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).  
